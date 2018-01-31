@@ -1,0 +1,59 @@
+body {
+    padding: 25px;
+    margin: 0;
+}
+section {
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+
+.first {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.first div {
+    display: inline-block;
+}
+.purple {
+    height: 150px;
+    width: 4.5%;
+    background-color: blueviolet;
+}
+.green {
+    height: 200px;
+    width: 33%;
+    background-color: forestgreen;
+    margin: 0 4.5%;
+}
+.blue {
+    background-color: skyblue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.second {
+    width: 100%;
+    border: 5px dotted black;
+    padding: 50px;
+}
+
+.yellow {
+    width: 100%;
+    height: 200px;
+    background-color: lemonchiffon;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.third {
+    width: 50%;
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 100px;
+    margin: 25px auto;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+    font-size: 1.35em;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
