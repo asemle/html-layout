@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+.equal {
+    height: 100px;
+    width: 100%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+.grey {
+    background-color: #D8D8D8
+}
+.blueSquare {
+    height: 50px;
+    width: 50px;
+    background-color: #4691DC;
+}
+
+.white {
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.blue {
+    background-color: #4691DC;
+}
+
+.aqua {
+    background-color: #37E3C4;
+}
+
+.green {
+    background-color: #B4E991;
+}
+
+.yellow {
+    background-color: #F8E650;
+}
